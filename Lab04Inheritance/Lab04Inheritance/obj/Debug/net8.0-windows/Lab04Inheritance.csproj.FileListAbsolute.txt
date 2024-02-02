@@ -1,0 +1,17 @@
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\bin\Debug\net8.0-windows\Lab04Inheritance.exe
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\bin\Debug\net8.0-windows\Lab04Inheritance.deps.json
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\bin\Debug\net8.0-windows\Lab04Inheritance.runtimeconfig.json
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\bin\Debug\net8.0-windows\Lab04Inheritance.dll
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\bin\Debug\net8.0-windows\Lab04Inheritance.pdb
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\obj\Debug\net8.0-windows\Lab04Inheritance.Form1.resources
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\obj\Debug\net8.0-windows\Lab04Inheritance.Properties.Resources.resources
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\obj\Debug\net8.0-windows\Lab04Inheritance.csproj.GenerateResource.cache
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\obj\Debug\net8.0-windows\Lab04Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\obj\Debug\net8.0-windows\Lab04Inheritance.AssemblyInfoInputs.cache
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\obj\Debug\net8.0-windows\Lab04Inheritance.AssemblyInfo.cs
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\obj\Debug\net8.0-windows\Lab04Inheritance.csproj.CoreCompileInputs.cache
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\obj\Debug\net8.0-windows\Lab04Inheritance.dll
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\obj\Debug\net8.0-windows\refint\Lab04Inheritance.dll
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\obj\Debug\net8.0-windows\Lab04Inheritance.pdb
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\obj\Debug\net8.0-windows\Lab04Inheritance.genruntimeconfig.cache
+D:\งานวิชาต่างๆ\GitCats\Lab04_Inheritance\Lab04Inheritance\Lab04Inheritance\obj\Debug\net8.0-windows\ref\Lab04Inheritance.dll
